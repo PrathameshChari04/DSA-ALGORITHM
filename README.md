@@ -1,1 +1,1 @@
-# DSA-ALGORITHM in Python, Java and Javascript
+# FUNDAMENTALS-DSA-ALGORITHM in Python, Java and Javascript
